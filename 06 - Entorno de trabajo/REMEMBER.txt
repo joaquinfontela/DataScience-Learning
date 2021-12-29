@@ -1,0 +1,1 @@
+REMEMBER: 'conda init' command is not working for me, instead use 'conda activate'.
