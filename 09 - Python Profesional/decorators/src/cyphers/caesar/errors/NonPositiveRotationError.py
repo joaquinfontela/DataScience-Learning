@@ -1,0 +1,2 @@
+class NonPositiveRotationError(Exception):
+    pass
